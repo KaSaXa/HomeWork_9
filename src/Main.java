@@ -140,7 +140,6 @@ public class Main {
 
         System.out.println("Количество рентабельных месяцев (прибыль > 0): " + outputArray5[0]);
 
-
     }
 }
 
